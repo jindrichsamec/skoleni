@@ -13,6 +13,5 @@ a pokracujeme !!!
 -druhy
 -treti
 
-1.!!!
+1.
 2.
-3.
