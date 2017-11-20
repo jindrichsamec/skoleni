@@ -6,7 +6,5 @@ tn4, 4b, 4c
 III - prvni commit - fix
 III - druhy commit
 III - treti commit aaaaa
-<<<<<<< Upstream, based on origin/master
-=======
 5.verze
->>>>>>> 402884a 5a
+5b verze
