@@ -1,1 +1,11 @@
 test
+dalsi zmena
+merge hell - rebase vs. merge.git addgit
+obed?
+
+zmena po uprave
+--------------------------------------------------
+dalsi cast skoleni
+dalsi pokus tentokrat pouze s fetch/rebase
+--------------------------------------------------
+byl to klokan.

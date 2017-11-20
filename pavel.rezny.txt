@@ -1,1 +1,9 @@
-Prvni pokusny textovy soubor.
+Prvni pokusny textovy soubor
+8. zmena
+
+branch 3
+zmena 1
+zmena 2 !!!
+zmena 3
+
+pull request opraven

@@ -1,1 +1,7 @@
-Muj soubor
+Muj soubor.
+
+Ahoj.
+Dalsi pozdrav.
+Tadaa.
+
+Nova paradni upravicka. ==:)==
