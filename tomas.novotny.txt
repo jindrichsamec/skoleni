@@ -1,4 +1,8 @@
 zprava pro ostatni
 druhy radek
 treti radek! - oprava
-ctvrty radek
+ctvrty radek1
+tn4, 4b, 4c
+III - prvni commit - fix
+III - druhy commit
+III - treti commit aaaaa

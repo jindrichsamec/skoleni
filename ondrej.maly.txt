@@ -2,6 +2,8 @@ testik
 
 test dalsi vetve
 
+#a dopiseme kus kodu
+
 a dalsi veta pro konflikt
 test dalsi vetve
 luma
