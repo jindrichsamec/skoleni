@@ -1,4 +1,6 @@
 test
 dalsi zmena
 merge hell - rebase vs. merge.git addgit
-obed
+obed?
+
+zmena
