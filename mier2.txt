@@ -1,4 +1,1 @@
 init
-checkout -b mier
-commit --amend
-rebase
