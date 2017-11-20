@@ -1,1 +1,4 @@
-Muj soubor
+Muj soubor.
+
+Ahoj.
+Dalsi pozdrav.
