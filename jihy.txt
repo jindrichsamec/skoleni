@@ -5,3 +5,6 @@ Za chvili je obed.
 
 Uz je po obede.
 vyvar + steak
+cena 110 Kc
+
+Nebylo to marne.
