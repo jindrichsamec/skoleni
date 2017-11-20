@@ -2,5 +2,9 @@ tady je tohulovo :)
 
 uz to jede
 a pokracujeme !!!
+<<<<<<< HEAD
 - push vetve
 - a upravuju
+=======
+- push vetve
+>>>>>>> 1fa81760c410e86e57d856efe2083b275c90a245
