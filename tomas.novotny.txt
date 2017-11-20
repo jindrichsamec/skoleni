@@ -4,3 +4,4 @@ treti radek! - oprava
 ctvrty radek
 III - prvni commit
 III - druhy commit
+III - treti commit
