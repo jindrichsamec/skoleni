@@ -6,3 +6,5 @@ další řádek
 
 1) text!!!
 2) druhy
+
+Změna vyžadující pull request
