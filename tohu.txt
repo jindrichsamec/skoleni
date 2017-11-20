@@ -9,7 +9,7 @@ a pokracujeme !!!
 
 - tohu2
 
--prvni
+-prvni!!
 -druhy
 <<<<<<< HEAD
 =======
