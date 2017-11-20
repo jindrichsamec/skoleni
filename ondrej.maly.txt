@@ -7,6 +7,10 @@ test dalsi vetve
 
 echo 'ok';
 echo "vypis logu"
+<<<<<<< HEAD
+=======
+Die();
+>>>>>>> 7b166edb38aebe4aa867ed419aef6f3617d6b480
 
 ?>
 
