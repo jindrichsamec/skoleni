@@ -4,3 +4,4 @@ Prvni pokusny textovy soubor
 branch 3
 zmena 1
 zmena 2 !!!
+zmena 3
