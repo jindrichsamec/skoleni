@@ -8,5 +8,5 @@ Změna vyžadující pull request
 
 Nové změny:
 1. řádek
+2. řádek
 3. řádek
-4. řádek
