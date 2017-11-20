@@ -6,6 +6,7 @@ commit --amend
 
 rebase
 
-rebasi -i
+
+rebase -i
 aaa
 bbb
