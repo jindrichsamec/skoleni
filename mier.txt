@@ -1,4 +1,9 @@
 init
+
 checkout -b mier
+
 commit --amend
+
 rebase
+
+rebasi -i
