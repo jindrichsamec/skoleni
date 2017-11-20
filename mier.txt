@@ -1,4 +1,2 @@
-init
-checkout -b mier
-commit --amend
-rebase
+Init
+Branches
