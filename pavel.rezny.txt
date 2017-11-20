@@ -6,4 +6,4 @@ zmena 1
 zmena 2 !!!
 zmena 3
 
-pull request
+pull request opraven
