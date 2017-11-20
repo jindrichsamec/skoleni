@@ -5,3 +5,4 @@ radek 4
 radek 5
 
 radek 6 - dopsal onma
+radek 7 - dopsal luma
