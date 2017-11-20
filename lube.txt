@@ -3,4 +3,4 @@ dalsi zmena
 merge hell - rebase vs. merge.git addgit
 obed?
 
-zmena
+zmena po uprave
