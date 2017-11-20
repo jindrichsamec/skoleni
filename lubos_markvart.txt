@@ -1,1 +1,2 @@
 muj commit
+radek 2 v lokalni branch luma
