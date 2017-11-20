@@ -1,1 +1,3 @@
 zprava pro ostatni
+druhy radek
+treti radek! - oprava
