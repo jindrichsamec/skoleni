@@ -4,4 +4,8 @@ Welcome...
 Here I am.
 change n.1
 
+<<<<<<< HEAD
 hallo
+=======
+hallo ufff
+>>>>>>> b80e6718b4c94ba6a1b63710af886c36bdde2edf
