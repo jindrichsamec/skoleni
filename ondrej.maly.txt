@@ -6,6 +6,7 @@ test dalsi vetve
 <?php
 
 echo 'ok';
+echo "vypis logu"
 
 ?>
 
