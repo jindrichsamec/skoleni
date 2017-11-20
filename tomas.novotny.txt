@@ -6,3 +6,6 @@ tn4, 4b, 4c
 III - prvni commit - fix
 III - druhy commit
 III - treti commit aaaaa
+5.verze
+5b verze
+5c
