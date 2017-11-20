@@ -6,3 +6,5 @@ a pokracujeme !!!
 - a upravuju
 - push vetve
 - MIER kouka jako puk
+
+- tohu2
