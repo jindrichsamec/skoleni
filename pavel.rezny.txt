@@ -1,3 +1,5 @@
 Prvni pokusny textovy soubor
 8. zmena
 
+branch 3
+zmena 1
