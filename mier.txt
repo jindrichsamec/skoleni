@@ -7,3 +7,4 @@ commit --amend
 rebase
 
 rebasi -i
+aaa
