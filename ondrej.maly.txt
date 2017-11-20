@@ -3,6 +3,16 @@ testik
 test dalsi vetve
 
 #a dopiseme kus kodu
+<?php
+
+echo 'ok';
+echo "vypis logu"
+<<<<<<< HEAD
+=======
+Die();
+>>>>>>> 7b166edb38aebe4aa867ed419aef6f3617d6b480
+
+?>
 
 a dalsi veta pro konflikt
 test dalsi vetve
