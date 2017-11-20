@@ -3,8 +3,6 @@ testik
 test dalsi vetve
 
 #a dopiseme kus kodu
-DIe();
-# konec
 
 a dalsi veta pro konflikt
 test dalsi vetve
