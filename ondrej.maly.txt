@@ -7,7 +7,6 @@ test dalsi vetve
 
 echo 'ok';
 echo "vypis logu"
-Die();
 
 ?>
 
