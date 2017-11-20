@@ -8,4 +8,4 @@ zmena 3
 
 pull request opraven
 
-PR2
+PR2 - zmena 2
