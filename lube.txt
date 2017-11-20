@@ -8,4 +8,4 @@ zmena po uprave
 dalsi cast skoleni
 dalsi pokus tentokrat pouze s fetch/rebase
 --------------------------------------------------
-byl to klokan
+byl to klokan.
