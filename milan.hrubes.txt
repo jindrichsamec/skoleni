@@ -4,4 +4,4 @@ Ahoj.
 Dalsi pozdrav.
 Tadaa.
 
-Nova paradni upravicka.
+Nova paradni upravicka. ==:)==
