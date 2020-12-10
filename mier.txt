@@ -1,4 +1,14 @@
 init
+
 checkout -b mier
+
 commit --amend
+
 rebase
+
+
+rebase -i
+aaa
+bbb
+
+pull request
